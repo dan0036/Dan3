@@ -1,0 +1,2 @@
+public class homeWork6 {
+}
